@@ -1,0 +1,6 @@
+C:\Users\Ceren\Desktop\algoritma analizi\MaksimumEleman\MaksimumEleman\bin\Debug\MaksimumEleman.exe.config
+C:\Users\Ceren\Desktop\algoritma analizi\MaksimumEleman\MaksimumEleman\bin\Debug\MaksimumEleman.exe
+C:\Users\Ceren\Desktop\algoritma analizi\MaksimumEleman\MaksimumEleman\bin\Debug\MaksimumEleman.pdb
+C:\Users\Ceren\Desktop\algoritma analizi\MaksimumEleman\MaksimumEleman\obj\Debug\MaksimumEleman.csprojResolveAssemblyReference.cache
+C:\Users\Ceren\Desktop\algoritma analizi\MaksimumEleman\MaksimumEleman\obj\Debug\MaksimumEleman.exe
+C:\Users\Ceren\Desktop\algoritma analizi\MaksimumEleman\MaksimumEleman\obj\Debug\MaksimumEleman.pdb
